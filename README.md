@@ -14,8 +14,14 @@
 </div>
 
 <div align="center">
-  <h3>Projetos</h3>
+  <h3>Cursos</h3>
+  
+  <a href="https://github.com/carlosbarretoeng/carlosbarretoeng/tree/master/Cursos/Git%20%26%20Github"><h4>Git & Github</h4></a>
   
   <hr/>
-  <h3>Cursos</h3>
+  
+  <h3>Projetos</h3>
+  
+  <a href=""><h4>Arki.tech (comming soon)</h4></a>
+  
 </div>
