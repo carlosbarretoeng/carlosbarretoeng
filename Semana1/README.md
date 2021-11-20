@@ -1,6 +1,6 @@
 # Git & Github
 
-## Semana 1
+## Semana 1 - Nosso primeiro encontro.!
 
 ### Vídeo
 
