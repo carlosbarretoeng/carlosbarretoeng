@@ -4,7 +4,7 @@
 
 ### Vídeo
 
-[![Watch the video](https://i.ibb.co/xM5p8Mg/Git-Git-Hub-Semana1.png)](https://vimeo.com/640753215/ab7ec0e700)
+[![Watch the video](https://i.ibb.co/xM5p8Mg/Git-Git-Hub-Semana1.png)](https://www.youtube.com/watch?v=7-m8sc-9JDI)
   
 ### Apresentação
 
