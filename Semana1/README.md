@@ -8,7 +8,7 @@
   
 ### Apresentação
 
-[![Apresentacao](https://i.ibb.co/r50kmmy/Git-e-Github-Semana-1.jpg)]
+![Apresentacao](https://i.ibb.co/r50kmmy/Git-e-Github-Semana-1.jpg)
 
 [Google Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSl7AJnV3thC_vg1HJzX0SRDgRClt9RBvqR_O9ta_CRgpekPRyjDYs8S64djHwobAvIV447jYtjI4fg/pub?start=false&loop=false)
 ||
