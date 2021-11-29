@@ -4,7 +4,7 @@
 
 ### Vídeo
 
-[![Watch the video]()]()
+[![Watch the video](https://i9.ytimg.com/vi/O9lik1ZJ2Sw/mq2.jpg?sqp=CKSxlI0G&rs=AOn4CLB1-KkGzWUZpWLjl5gXpNnktgIKRQ&retry=4)](https://www.youtube.com/watch?v=O9lik1ZJ2Sw)
   
 ### Apresentação
 
